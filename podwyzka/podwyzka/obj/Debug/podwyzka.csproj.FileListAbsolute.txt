@@ -1,0 +1,15 @@
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\bin\Debug\podwyzka.exe.config
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\bin\Debug\podwyzka.exe
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\bin\Debug\podwyzka.pdb
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.csproj.AssemblyReference.cache
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\MainWindow.baml
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\MainWindow.g.cs
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\App.g.cs
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka_MarkupCompile.cache
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.g.resources
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.Properties.Resources.resources
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.csproj.GenerateResource.cache
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.csproj.CoreCompileInputs.cache
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.exe
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.pdb
+C:\Users\Informatyk\Desktop\Rogosz 3TPB\podwyzka\podwyzka\obj\Debug\podwyzka.exe.config
